@@ -21,7 +21,7 @@ MIN_DELAY = 20
 NHL = True
 ECHL = True
 
-private_file.close()
+private_file.close(IPcVId0mlQgtG0ZfjTcNG)
 
 
 class ECHLGame:
